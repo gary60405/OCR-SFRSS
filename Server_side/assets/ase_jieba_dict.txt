@@ -1,0 +1,2146 @@
+Wi-Fi 100000 n
+Hz 100000 n
+QHD 100000 n
+1.0 100000 n
+2.0 100000 n
+3.0 100000 n
+4.0 100000 n
+Oppo 100000 n
+Realme 100000 n
+Vivo 100000 n
+新冠病毒 100000 n
+新冠肺炎 100000 n
+Covid-19 100000 n
+稼動率 100000 n
+妥善率 100000 n
+完成率 100000 n
+iPad 100000 n
+facebook 100000 n
+yahoo 100000 n
+Yahoo 100000 n
+google 100000 n
+Google 100000 n
+伊莉 100000 n
+buy-off啟動 100000 n
+安裝 100000 n
+開工 100000 n
+高架地板 100000 n
+冰水 100000 n
+冷氣 100000 n
+施工圖 100000 n
+送審 100000 n
+BiLSTM 100000 n
+HDR 100000 n
+報導 100000 n
+NSA 100000 n
+HIGH/LOWLIGHTS 100000 n
+WORK COMPLETED 100000 n
+MAJOR DEVIATION 100000 n
+PLAN TO DO 100000 n
+5G 100000 n
+Project Status 100000 n
+N/A 100000 n
+Key 100000 n
+NPI 100000 n
+NPIs 100000 n
+fous 100000 n
+activities 100000 n
+重點計畫 100000 n
+呆滯客材 100000 n
+ship back 100000 n
+NCKU 100000 n
+Ase 100000 n
+YouTube 100000 n
+白沙屯媽 100000 n
+白沙屯 100000 n
+呆滯自購 100000 n
+Lead Frame 100000 n
+AI 100000 n
+A巴 100000 n
+A旺 100000 n
+A棟 100000 n
+A舞 100000 n
+A萬 100000 n
+A酒 100000 n
+BE 100000 n
+BP 100000 n
+CL 100000 n
+CP 100000 n
+CT 100000 n
+EA 100000 n
+EE 100000 n
+FC 100000 n
+FM 100000 n
+FO 100000 n
+FS 100000 n
+FT 100000 n
+FX 100000 n
+GD 100000 n
+GM 100000 n
+HB 100000 n
+HP 100000 n
+HR 100000 n
+Hi 100000 n
+IT 100000 n
+KC 100000 n
+KL 100000 n
+KV 100000 n
+K五 100000 n
+K十 100000 n
+K妻 100000 n
+K寺 100000 n
+K屎 100000 n
+K巴 100000 n
+K拾 100000 n
+K捌 100000 n
+K時 100000 n
+K漆 100000 n
+K食 100000 n
+K餓 100000 n
+LF 100000 n
+LG 100000 n
+L七 100000 n
+L妻 100000 n
+L棟 100000 n
+L芭 100000 n
+ME 100000 n
+MM 100000 n
+MO 100000 n
+MT 100000 n
+M棟 100000 n
+M站 100000 n
+NJ 100000 n
+OP 100000 n
+PC 100000 n
+PE 100000 n
+PP 100000 n
+PS 100000 n
+P一 100000 n
+QA 100000 n
+QV 100000 n
+Qs 100000 n
+Q欸 100000 n
+RF 100000 n
+RH 100000 n
+RL 100000 n
+RT 100000 n
+SD 100000 n
+ST 100000 n
+TI 100000 n
+TK 100000 n
+TQ 100000 n
+TV 100000 n
+TW 100000 n
+T參 100000 n
+VK 100000 n
+VR 100000 n
+WB 100000 n
+W棒 100000 n
+ax 100000 n
+k似 100000 n
+k舞 100000 n
+七月 100000 n
+三星 100000 n
+三曠 100000 n
+三月 100000 n
+上頭 100000 n
+中壢 100000 n
+中歐 100000 n
+中科 100000 n
+中興 100000 n
+中芯 100000 n
+中鋼 100000 n
+中階 100000 n
+主任 100000 n
+九廠 100000 n
+事假 100000 n
+二廠 100000 n
+亞系 100000 n
+交期 100000 n
+京東 100000 n
+人資 100000 n
+仁寶 100000 n
+修機 100000 n
+停線 100000 n
+停電 100000 n
+健策 100000 n
+偷吃 100000 n
+億科 100000 n
+光達 100000 n
+光電 100000 n
+八卦 100000 n
+八廠 100000 n
+凌陽 100000 n
+凱音 100000 n
+刪廠 100000 n
+制裁 100000 n
+副理 100000 n
+創達 100000 n
+加薪 100000 n
+北美 100000 n
+匯損 100000 n
+十廠 100000 n
+南亞 100000 n
+南茂 100000 n
+南韓 100000 n
+博世 100000 n
+博通 100000 n
+印尼 100000 n
+印度 100000 n
+口罩 100000 n
+台籍 100000 n
+台郡 100000 n
+咆哮 100000 n
+和碩 100000 n
+哈哈 100000 n
+喝酒 100000 n
+嗨賴 100000 n
+嗶屎 100000 n
+嘉澤 100000 n
+回扣 100000 n
+坪效 100000 n
+報案 100000 n
+塞班 100000 n
+外勞 100000 n
+大過 100000 n
+天津 100000 n
+天璣 100000 n
+奇景 100000 n
+奈米 100000 n
+威馬 100000 n
+安控 100000 n
+安謀 100000 n
+宏捷 100000 n
+宏碁 100000 n
+射頻 100000 n
+專區 100000 n
+小米 100000 n
+小鵬 100000 n
+尾牙 100000 n
+川普 100000 n
+巡線 100000 n
+巴廠 100000 n
+巴西 100000 n
+年假 100000 n
+年薪 100000 n
+底薪 100000 n
+庫房 100000 n
+廠務 100000 n
+廠長 100000 n
+弘芯 100000 n
+復工 100000 n
+微信 100000 n
+德國 100000 n
+徹查 100000 n
+思科 100000 n
+惠普 100000 n
+惡廠 100000 n
+惡樓 100000 n
+懲處 100000 n
+戴爾 100000 n
+打人 100000 n
+打賴 100000 n
+扣錢 100000 n
+把妹 100000 n
+投訴 100000 n
+抖音 100000 n
+折舊 100000 n
+抱怨 100000 n
+抹黑 100000 n
+抽煙 100000 n
+抽獎 100000 n
+抽菸 100000 n
+拉貨 100000 n
+拍照 100000 n
+拾鵝 100000 n
+採購 100000 n
+摸魚 100000 n
+操機 100000 n
+擴廠 100000 n
+敦泰 100000 n
+新人 100000 n
+新帝 100000 n
+斷鏈 100000 n
+方略 100000 n
+日本 100000 n
+旺宏 100000 n
+旺矽 100000 n
+昇騰 100000 n
+星雲 100000 n
+晚到 100000 n
+晟碟 100000 n
+景碩 100000 n
+曠職 100000 n
+本田 100000 n
+村田 100000 n
+杰鑫 100000 n
+東歐 100000 n
+松翰 100000 n
+棒漆 100000 n
+檢舉 100000 n
+欣興 100000 n
+欸三 100000 n
+欸久 100000 n
+欸參 100000 n
+欸吐 100000 n
+欸武 100000 n
+欸死 100000 n
+欸肆 100000 n
+欸萬 100000 n
+欸遛 100000 n
+欸酒 100000 n
+欺壓 100000 n
+歐批 100000 n
+歪棒 100000 n
+歲修 100000 n
+每天 100000 n
+江浙 100000 n
+法務 100000 n
+津貼 100000 n
+海思 100000 n
+淒廠 100000 n
+混貨 100000 n
+測試 100000 n
+湖北 100000 n
+漆樓 100000 n
+漏打 100000 n
+無錫 100000 n
+爆氣 100000 n
+特休 100000 n
+獎工 100000 n
+瑞昱 100000 n
+環宇 100000 n
+環旭 100000 n
+環評 100000 n
+申訴 100000 n
+異味 100000 n
+病假 100000 n
+發飆 100000 n
+百度 100000 n
+睡覺 100000 n
+知識 100000 n
+石餓 100000 n
+矽品 100000 n
+矽格 100000 n
+研磨 100000 n
+神盾 100000 n
+神轎 100000 n
+祥碩 100000 n
+福利 100000 n
+福斯 100000 n
+福雷 100000 n
+穎崴 100000 n
+穩懋 100000 n
+立積 100000 n
+立訊 100000 n
+米K 100000 n
+約談 100000 n
+紅利 100000 n
+紫光 100000 n
+組員 100000 n
+組長 100000 n
+網軍 100000 n
+緯創 100000 n
+缺工 100000 n
+缺料 100000 n
+罷凌 100000 n
+罷韓 100000 n
+羅總 100000 n
+美光 100000 n
+美晶 100000 n
+老闆 100000 n
+老鳥 100000 n
+聊天 100000 n
+聯想 100000 n
+聯詠 100000 n
+聯電 100000 n
+膏熊 100000 n
+臻鼎 100000 n
+芬蘭 100000 n
+茂達 100000 n
+菜鳥 100000 n
+華態 100000 n
+華為 100000 n
+華碩 100000 n
+華通 100000 n
+菱生 100000 n
+菲籍 100000 n
+菲菲 100000 n
+蔚來 100000 n
+藍牙 100000 n
+蘋果 100000 n
+衛哨 100000 n
+裁員 100000 n
+裝病 100000 n
+西安 100000 n
+記過 100000 n
+調薪 100000 n
+豐田 100000 n
+財務 100000 n
+責罵 100000 n
+貳場 100000 n
+賠償 100000 n
+購併 100000 n
+贏創 100000 n
+超微 100000 n
+超豐 100000 n
+越南 100000 n
+跨棟 100000 n
+車用 100000 n
+輝達 100000 n
+輪休 100000 n
+逼久 100000 n
+過勞 100000 n
+遛摟 100000 n
+遠傳 100000 n
+遲到 100000 n
+酒廠 100000 n
+酒精 100000 n
+金居 100000 n
+鎧俠 100000 n
+長科 100000 n
+闆娘 100000 n
+防疫 100000 n
+阿信 100000 n
+離職 100000 n
+需要 100000 n
+霸凌 100000 n
+非洲 100000 n
+靠北 100000 n
+靠杯 100000 n
+靠背 100000 n
+面試 100000 n
+頌斐 100000 n
+頎邦 100000 n
+預警 100000 n
+領班 100000 n
+顧機 100000 n
+食場 100000 n
+餓廠 100000 n
+首爾 100000 n
+香港 100000 n
+馬雲 100000 n
+駐廠 100000 n
+騰訊 100000 n
+高通 100000 n
+高階 100000 n
+鯤鵬 100000 n
+鱷樓 100000 n
+鴻海 100000 n
+鴻蒙 100000 n
+麒麟 100000 n
+龍華 100000 n
+A T 100000 n
+AMD 100000 n
+AOD 100000 n
+AOI 100000 n
+Ase 100000 n
+ATV 100000 n
+AiP 100000 n
+Arm 100000 n
+A站點 100000 n
+A酒廠 100000 n
+B B 100000 n
+B C 100000 n
+B F 100000 n
+B樓 100000 n
+BAM 100000 n
+BCP 100000 n
+BGA 100000 n
+BMP 100000 n
+BMW 100000 n
+BXM 100000 n
+B站點 100000 n
+C M 100000 n
+CEI 100000 n
+CIM 100000 n
+CPU 100000 n
+CRD 100000 n
+CSR 100000 n
+D A 100000 n
+DOE 100000 n
+DSP 100000 n
+EHS 100000 n
+EMS 100000 n
+ESD 100000 n
+ESH 100000 n
+F F 100000 n
+FAC 100000 n
+FDA 100000 n
+FIN 100000 n
+FPS 100000 n
+FSM 100000 n
+FVI 100000 n
+FoD 100000 n
+GDP 100000 n
+GMO 100000 n
+GPU 100000 n
+GSA 100000 n
+G標準 100000 n
+HPC 100000 n
+IDM 100000 n
+IFX 100000 n
+IMF 100000 n
+IQA 100000 n
+ISO 100000 n
+IoT 100000 n
+K A 100000 n
+K D 100000 n
+K F 100000 n
+K w 100000 n
+K 廠 100000 n
+K 樓 100000 n
+K一二 100000 n
+K十二 100000 n
+K十噩 100000 n
+K十惡 100000 n
+K十舞 100000 n
+K十貳 100000 n
+K十餓 100000 n
+K屎惡 100000 n
+K拾二 100000 n
+K拾武 100000 n
+K拾爾 100000 n
+K拾貳 100000 n
+K時惡 100000 n
+K石榴 100000 n
+K石溜 100000 n
+K石餓 100000 n
+K蝕貳 100000 n
+K蝕鱷 100000 n
+K貳貳 100000 n
+K食俄 100000 n
+K食噁 100000 n
+K食惡 100000 n
+K食餓 100000 n
+K餓餓 100000 n
+LCP 100000 n
+LSI 100000 n
+M D 100000 n
+M M 100000 n
+MCU 100000 n
+MFG 100000 n
+MIS 100000 n
+MNO 100000 n
+MOR 100000 n
+MPE 100000 n
+MQA 100000 n
+MTK 100000 n
+MWC 100000 n
+NEC 100000 n
+NFL 100000 n
+NPD 100000 n
+NPI 100000 n
+NPU 100000 n
+NXP 100000 n
+O S 100000 n
+ODI 100000 n
+OEE 100000 n
+OEM 100000 n
+OLP 100000 n
+OSH 100000 n
+P P 100000 n
+PCB 100000 n
+PCR 100000 n
+PRU 100000 n
+PUR 100000 n
+PnL 100000 n
+PoP 100000 n
+P組長 100000 n
+QBR 100000 n
+QFN 100000 n
+QFP 100000 n
+QIR 100000 n
+QNX 100000 n
+QQR 100000 n
+QTI 100000 n
+QTR 100000 n
+RFQ 100000 n
+RMA 100000 n
+ROA 100000 n
+RPA 100000 n
+SBS 100000 n
+SIA 100000 n
+SIE 100000 n
+SMT 100000 n
+SOP 100000 n
+STM 100000 n
+STR 100000 n
+SYN 100000 n
+SiP 100000 n
+SoC 100000 n
+T K 100000 n
+TCI 100000 n
+TCT 100000 n
+TFT 100000 n
+ToF 100000 n
+UMC 100000 n
+USI 100000 n
+UWB 100000 n
+V M 100000 n
+VPO 100000 n
+VoW 100000 n
+W B 100000 n
+WBS 100000 n
+WFH 100000 n
+WHO 100000 n
+WLP 100000 n
+WPH 100000 n
+WSJ 100000 n
+XMC 100000 n
+Y G 100000 n
+Y H 100000 n
+Y Q 100000 n
+YoY 100000 n
+Z G 100000 n
+Z H 100000 n
+ZDT 100000 n
+ZTE 100000 n
+k食溜 100000 n
+wip 100000 n
+三叉機 100000 n
+上海廠 100000 n
+中三街 100000 n
+中壢A 100000 n
+中壢場 100000 n
+中壢廠 100000 n
+中曆場 100000 n
+中水廠 100000 n
+中秋節 100000 n
+中美晶 100000 n
+亂請假 100000 n
+二園區 100000 n
+五奈米 100000 n
+亞馬遜 100000 n
+京元電 100000 n
+人資處 100000 n
+任天堂 100000 n
+休息日 100000 n
+伯特利 100000 n
+作業員 100000 n
+優北羅 100000 n
+全能工 100000 n
+出貨量 100000 n
+切割站 100000 n
+切結書 100000 n
+刷卡機 100000 n
+劃掉假 100000 n
+加拿大 100000 n
+加班費 100000 n
+勞基法 100000 n
+勞工局 100000 n
+北上廣 100000 n
+升職等 100000 n
+南泥灣 100000 n
+南神教 100000 n
+南美特 100000 n
+去美化 100000 n
+反仿冒 100000 n
+台GG 100000 n
+台積電 100000 n
+司亞樂 100000 n
+吃東西 100000 n
+吃檳榔 100000 n
+吃豆腐 100000 n
+吳田玉 100000 n
+吸煙區 100000 n
+吸菸區 100000 n
+品檢員 100000 n
+唉Q欸 100000 n
+唉玖廠 100000 n
+唉酒廠 100000 n
+商務部 100000 n
+單晶片 100000 n
+嚼檳榔 100000 n
+基本面 100000 n
+大物件 100000 n
+大立光 100000 n
+大老闆 100000 n
+嫁動率 100000 n
+宅經濟 100000 n
+安全官 100000 n
+安富利 100000 n
+宏捷科 100000 n
+家庭日 100000 n
+富士康 100000 n
+富士通 100000 n
+實驗批 100000 n
+封裝廠 100000 n
+封裝業 100000 n
+州政府 100000 n
+工程批 100000 n
+巴斯夫 100000 n
+帶手機 100000 n
+年 月 100000 n
+廣東省 100000 n
+張姚宏 100000 n
+張忠謀 100000 n
+張老闆 100000 n
+微流體 100000 n
+性騷擾 100000 n
+恩智浦 100000 n
+愛立信 100000 n
+戴姆勒 100000 n
+打手遊 100000 n
+打遊戲 100000 n
+打電話 100000 n
+扣獎工 100000 n
+承攬商 100000 n
+技術員 100000 n
+抓手機 100000 n
+採購量 100000 n
+操作員 100000 n
+擴產能 100000 n
+放黑假 100000 n
+敞後段 100000 n
+新加坡 100000 n
+新廠區 100000 n
+新農業 100000 n
+旅遊史 100000 n
+日月X 100000 n
+日月光 100000 n
+日月暘 100000 n
+星巴克 100000 n
+星期一 100000 n
+星期三 100000 n
+星期二 100000 n
+星期五 100000 n
+星期四 100000 n
+星期日 100000 n
+暘日月 100000 n
+月 日 100000 n
+月 號 100000 n
+材料廠 100000 n
+林廷皇 100000 n
+樓餐廳 100000 n
+欣旺達 100000 n
+欸吐廠 100000 n
+欸時樓 100000 n
+毫米波 100000 n
+水果場 100000 n
+水果廠 100000 n
+水果樓 100000 n
+江蘇省 100000 n
+沒遲到 100000 n
+法說會 100000 n
+波士頓 100000 n
+泰利特 100000 n
+洛杉磯 100000 n
+浙江省 100000 n
+測試廠 100000 n
+滑手機 100000 n
+炭疽熱 100000 n
+物聯網 100000 n
+特休假 100000 n
+特斯拉 100000 n
+玉晶光 100000 n
+王主任 100000 n
+環保局 100000 n
+環安衛 100000 n
+生理假 100000 n
+盧超群 100000 n
+石宇茹 100000 n
+福委會 100000 n
+科博達 100000 n
+第一季 100000 n
+第三季 100000 n
+管理處 100000 n
+簡禎富 100000 n
+總務組 100000 n
+總經理 100000 n
+羅森橋 100000 n
+義大利 100000 n
+聯發科 100000 n
+自動化 100000 n
+自駕車 100000 n
+致動器 100000 n
+艾克爾 100000 n
+芝加哥 100000 n
+英偉達 100000 n
+英特爾 100000 n
+英飛凌 100000 n
+華邦電 100000 n
+蔡力行 100000 n
+蘇主任 100000 n
+衛福部 100000 n
+製造部 100000 n
+西門子 100000 n
+記大過 100000 n
+記小過 100000 n
+記警告 100000 n
+請特休 100000 n
+請病假 100000 n
+財務部 100000 n
+責任制 100000 n
+賽靈思 100000 n
+超寬頻 100000 n
+路透社 100000 n
+車材廠 100000 n
+車聯網 100000 n
+邁阿密 100000 n
+郭台銘 100000 n
+錯漏混 100000 n
+開機數 100000 n
+闖紅燈 100000 n
+關稅戰 100000 n
+雙十一 100000 n
+零罰單 100000 n
+雷刻機 100000 n
+電木板 100000 n
+電鍍站 100000 n
+領傳票 100000 n
+颱風假 100000 n
+高雄場 100000 n
+高雄廠 100000 n
+黃崇仁 100000 n
+黃文進 100000 n
+鼎山區 100000 n
+龔培元 100000 n
+A PE 100000 n
+A WB 100000 n
+A 前段 100000 n
+ADAS 100000 n
+AIoT 100000 n
+AI晶片 100000 n
+AR體驗 100000 n
+AseE 100000 n
+AseT 100000 n
+AT T 100000 n
+AVGO 100000 n
+BASF 100000 n
+BRCM 100000 n
+BUMP 100000 n
+BU副總 100000 n
+Bier 100000 n
+CCTV 100000 n
+CMOS 100000 n
+DELL 100000 n
+DJSI 100000 n
+DRAM 100000 n
+Dofu 100000 n
+Dory 100000 n
+EE主管 100000 n
+EE組長 100000 n
+Epyc 100000 n
+Eric 100000 n
+FBGA 100000 n
+FCST 100000 n
+FO產能 100000 n
+FPGA 100000 n
+Fuyu 100000 n
+GMCC 100000 n
+GSMA 100000 n
+GoBM 100000 n
+Hiro 100000 n
+Hisi 100000 n
+ID提案 100000 n
+IFRS 100000 n
+IGBT 100000 n
+IT老鳥 100000 n
+K二樓 100000 n
+K刪嘍 100000 n
+K淒廠 100000 n
+Kㄦˋ一 100000 n
+K捌壹樓 100000 n
+LA 100000 n
+LQ 100000 n
+LQFP 100000 n
+Levy 100000 n
+MDIO 100000 n
+MEMS 100000 n
+ME主任 100000 n
+ME組長 100000 n
+MIMO 100000 n
+MLCC 100000 n
+Mesa 100000 n
+Mike 100000 n
+OM產品 100000 n
+OPPO 100000 n
+OP老鳥 100000 n
+OSAT 100000 n
+PBGA 100000 n
+PDTV 100000 n
+RDNA 100000 n
+RF晶片 100000 n
+RTMS 100000 n
+盤差 100000 n
+SARS 100000 n
+SEMI 100000 n
+SMIC 100000 n
+SPEC 100000 n
+SPE克 100000 n
+SPIL 100000 n
+SVXR 100000 n
+SiGe 100000 n
+Sony 100000 n
+TMAH 100000 n
+TSMC 100000 n
+TULE 100000 n
+TV衰退 100000 n
+Tray 100000 n
+UICC 100000 n
+UMTC 100000 n
+WSTS 100000 n
+WiFi 100000 n
+X EA 100000 n
+Xbox 100000 n
+Z AM 100000 n
+歪棒 100000 n
+aLWP 100000 n
+aQFN 100000 n
+aWLP 100000 n
+e化專案 100000 n
+i MX 100000 n
+iPad 100000 n
+iSIM 100000 n
+nego 100000 n
+op經理 100000 n
+saw站 100000 n
+vivo 100000 n
+xRay 100000 n
+三星電子 100000 n
+三星電機 100000 n
+三米OV 100000 n
+上頭長官 100000 n
+下修投料 100000 n
+世界先進 100000 n
+中南美洲 100000 n
+中國十一 100000 n
+中國大陸 100000 n
+中壢 廠 100000 n
+中壢一廠 100000 n
+中壢二廠 100000 n
+中壢惡廠 100000 n
+中壢某廠 100000 n
+中壢警衛 100000 n
+中山大學 100000 n
+中段UF 100000 n
+中秋佳節 100000 n
+中美貿易 100000 n
+中興通訊 100000 n
+中華精測 100000 n
+久元電子 100000 n
+二園區廠 100000 n
+二廠WB 100000 n
+二廠後段 100000 n
+二氧化氯 100000 n
+交期延誤 100000 n
+交期計畫 100000 n
+人力失血 100000 n
+人力補強 100000 n
+人因工程 100000 n
+人工成本 100000 n
+人工智慧 100000 n
+人才留任 100000 n
+人臉辨識 100000 n
+人身攻擊 100000 n
+什麼東西 100000 n
+代理儲備 100000 n
+企業形象 100000 n
+低階主管 100000 n
+作業安全 100000 n
+供貨華為 100000 n
+侵蝕獲利 100000 n
+保密協議 100000 n
+停止投料 100000 n
+僅知原則 100000 n
+價格侵蝕 100000 n
+儲備幹部 100000 n
+儲備組長 100000 n
+先進封裝 100000 n
+先進製程 100000 n
+光迅科技 100000 n
+光鼎組長 100000 n
+全新光電 100000 n
+出口管制 100000 n
+出貨華為 100000 n
+出貨計畫 100000 n
+刷下班卡 100000 n
+前任主管 100000 n
+前任副總 100000 n
+前段外觀 100000 n
+加徵關稅 100000 n
+加發獎金 100000 n
+加碼紅包 100000 n
+動土典禮 100000 n
+動見科技 100000 n
+協商賠償 100000 n
+南亞科技 100000 n
+取消紙本 100000 n
+台灣大學 100000 n
+司圖科技 100000 n
+合約收入 100000 n
+吋晶圓廠 100000 n
+后段研磨 100000 n
+品質改善 100000 n
+品質活動 100000 n
+員工體檢 100000 n
+員服中心 100000 n
+四川重慶 100000 n
+國防航太 100000 n
+在家工作 100000 n
+地板觀察 100000 n
+基層員工 100000 n
+基層幹部 100000 n
+基層組長 100000 n
+基於矽鍺 100000 n
+壽站領班 100000 n
+夜班OP 100000 n
+大中華區 100000 n
+大華科技 100000 n
+大量投料 100000 n
+奇景光電 100000 n
+威騰電子 100000 n
+客戶抱怨 100000 n
+客戶降價 100000 n
+封城期間 100000 n
+專案分數 100000 n
+導線載板 100000 n
+就地報廢 100000 n
+就業機會 100000 n
+居家檢疫 100000 n
+居家照護 100000 n
+居家辦公 100000 n
+居家隔離 100000 n
+工作同仁 100000 n
+工程實驗 100000 n
+工程師長 100000 n
+工程階段 100000 n
+廠商紅包 100000 n
+延誤下班 100000 n
+強制加班 100000 n
+彩色列印 100000 n
+後段A班 100000 n
+後段主任 100000 n
+後段封測 100000 n
+後段研磨 100000 n
+後段設備 100000 n
+從服中心 100000 n
+循環經濟 100000 n
+微處理器 100000 n
+成功大學 100000 n
+成本評估 100000 n
+打下班卡 100000 n
+打線封裝 100000 n
+技術津貼 100000 n
+投料目標 100000 n
+投料計畫 100000 n
+抗日戰爭 100000 n
+抗體檢測 100000 n
+折舊問題 100000 n
+折舊成本 100000 n
+折舊攤提 100000 n
+拓普集團 100000 n
+指紋辨識 100000 n
+採購 量 100000 n
+採購規則 100000 n
+接單計畫 100000 n
+摩爾定律 100000 n
+操 作員 100000 n
+操機人員 100000 n
+擴充產能 100000 n
+攜帶手機 100000 n
+政治活動 100000 n
+數位經濟 100000 n
+數位轉型 100000 n
+文化科技 100000 n
+新冠肺炎 100000 n
+新建廠區 100000 n
+旗艦機種 100000 n
+日月無光 100000 n
+日月神教 100000 n
+日本廣島 100000 n
+星雲大師 100000 n
+星雲法師 100000 n
+時差測距 100000 n
+晉升制度 100000 n
+晶片設計 100000 n
+智慧家電 100000 n
+智慧手環 100000 n
+智慧手錶 100000 n
+智慧機械 100000 n
+曠視科技 100000 n
+材料漲價 100000 n
+材料降價 100000 n
+杜姓主管 100000 n
+業務副總 100000 n
+樂金電子 100000 n
+標準程序 100000 n
+機台交期 100000 n
+機台折舊 100000 n
+機台設置 100000 n
+欣興電子 100000 n
+欣銓科技 100000 n
+欸七逼依 100000 n
+欸三歪棒 100000 n
+欸死m踢 100000 n
+欸遛逼E 100000 n
+武漢新芯 100000 n
+武漢疫情 100000 n
+武漢肺炎 100000 n
+法國標致 100000 n
+法蘭克福 100000 n
+流程簡化 100000 n
+海康威視 100000 n
+深鑒科技 100000 n
+清潔組長 100000 n
+源頭管理 100000 n
+滲透測試 100000 n
+漢民科技 100000 n
+漲價問題 100000 n
+漲價議題 100000 n
+激勵獎金 100000 n
+火災事件 100000 n
+烽火通信 100000 n
+無人工廠 100000 n
+無人駕駛 100000 n
+營收目標 100000 n
+營收降低 100000 n
+營運目標 100000 n
+營運風險 100000 n
+燧原科技 100000 n
+獨立組網 100000 n
+獲利下降 100000 n
+獲利侵蝕 100000 n
+現代汽車 100000 n
+現任主管 100000 n
+環旭電子 100000 n
+環隆電氣 100000 n
+生技醫療 100000 n
+生物辨識 100000 n
+產品組合 100000 n
+產線人員 100000 n
+產線副理 100000 n
+產線組長 100000 n
+產能吃緊 100000 n
+產能擴充 100000 n
+產能計畫 100000 n
+產能需求 100000 n
+用電上升 100000 n
+用電密度 100000 n
+用電度數 100000 n
+異味陳情 100000 n
+異質整合 100000 n
+異質運算 100000 n
+疫情期間 100000 n
+疫情防治 100000 n
+直接人力 100000 n
+知識工程 100000 n
+矽中介板 100000 n
+矽品精密 100000 n
+矽品開曼 100000 n
+矽品電子 100000 n
+矽基元件 100000 n
+砷 化鎵 100000 n
+社羣媒體 100000 n
+神經科學 100000 n
+福利點數 100000 n
+福建晉華 100000 n
+福雷電子 100000 n
+稅收優惠 100000 n
+稅收減免 100000 n
+稽核人員 100000 n
+稽核單位 100000 n
+稽核機制 100000 n
+穿無塵衣 100000 n
+立錡科技 100000 n
+第二園區 100000 n
+管制 S 100000 n
+節水節能 100000 n
+節能減碳 100000 n
+節電目標 100000 n
+綠能科技 100000 n
+維修機台 100000 n
+罷免機制 100000 n
+美國矽谷 100000 n
+美國聯邦 100000 n
+耐能智慧 100000 n
+聯發科技 100000 n
+臨時請假 100000 n
+舜宇光學 100000 n
+英國脫歐 100000 n
+華域汽車 100000 n
+華天科技 100000 n
+華為禁令 100000 n
+華虹集團 100000 n
+華邦電子 100000 n
+菲籍OP 100000 n
+菲籍員工 100000 n
+落塵檢測 100000 n
+落塵管控 100000 n
+虛擬實境 100000 n
+虹膜辨識 100000 n
+衛哨掃檢 100000 n
+製造組長 100000 n
+記功嘉獎 100000 n
+記憶科技 100000 n
+設備折舊 100000 n
+設備老闆 100000 n
+語音喚醒 100000 n
+調漲代工 100000 n
+調監視器 100000 n
+請育嬰假 100000 n
+請颱風假 100000 n
+豪威科技 100000 n
+資安條款 100000 n
+資深長官 100000 n
+資騰科技 100000 n
+賠償合約 100000 n
+賠償折價 100000 n
+車用電子 100000 n
+軍工產品 100000 n
+轉單效應 100000 n
+通富微電 100000 n
+通用汽車 100000 n
+連署罷免 100000 n
+進口關稅 100000 n
+進機計畫 100000 n
+運送風險 100000 n
+遠距學習 100000 n
+遠距教學 100000 n
+選育用留 100000 n
+邁特電子 100000 n
+邊緣AI 100000 n
+邊緣運算 100000 n
+酚醛樹脂 100000 n
+醫療口罩 100000 n
+量產時程 100000 n
+量產階段 100000 n
+鈺創科技 100000 n
+長江存儲 100000 n
+長鑫存儲 100000 n
+長電科技 100000 n
+開機計畫 100000 n
+閘道邊緣 100000 n
+關稅減免 100000 n
+防疫專區 100000 n
+阿里巴巴 100000 n
+集團採購 100000 n
+集團機設 100000 n
+雍智科技 100000 n
+離職員工 100000 n
+雲天勵飛 100000 n
+雲端原生 100000 n
+雲端產業 100000 n
+雷射組長 100000 n
+電子圍籬 100000 n
+電梯分流 100000 n
+靜脈辨識 100000 n
+韓國首爾 100000 n
+頂針吸嘴 100000 n
+預投方式 100000 n
+預警系統 100000 n
+頻譜拍賣 100000 n
+飛時測距 100000 n
+馬來西亞 100000 n
+駐廠人員 100000 n
+驅動IC 100000 n
+體溫貼片 100000 n
+體溫量測 100000 n
+高階主管 100000 n
+高階機種 100000 n
+高雄 廠 100000 n
+高頻雷達 100000 n
+鴻鵠晶片 100000 n
+鵝廠歪膀 100000 n
+A SiP 100000 n
+A VPO 100000 n
+ABF載板 100000 n
+ADV A 100000 n
+AEC Q 100000 n
+AR VR 100000 n
+ASECL 100000 n
+ASEEE 100000 n
+ASEKH 100000 n
+Amkor 100000 n
+April 100000 n
+Avago 100000 n
+Avnet 100000 n
+Axion 100000 n
+Bitra 100000 n
+Bosch 100000 n
+Bravo 100000 n
+COIVD 100000 n
+COVID 100000 n
+Capex 100000 n
+Cisco 100000 n
+EE PE 100000 n
+EE 主任 100000 n
+EHS會議 100000 n
+FC BP 100000 n
+FC 營收 100000 n
+FCBGA 100000 n
+FCCSP 100000 n
+FCPoP 100000 n
+FOCOS 100000 n
+FOPoP 100000 n
+FOWLP 100000 n
+FXPOP 100000 n
+G LTE 100000 n
+GHz頻段 100000 n
+GM JJ 100000 n
+G蘋果手機 100000 n
+HBPOP 100000 n
+HIDAS 100000 n
+Honda 100000 n
+INTEL 100000 n
+Iflex 100000 n
+JJ 廠長 100000 n
+Jason 100000 n
+K F F 100000 n
+K _ F 100000 n
+K 停車場 100000 n
+K 吸菸區 100000 n
+K 會議室 100000 n
+Kㄦˋㄦˋ 100000 n
+K十貳四欸 100000 n
+K捌 四樓 100000 n
+K石兒 樓 100000 n
+K貳一叁樓 100000 n
+K食餓 樓 100000 n
+LiDAR 100000 n
+M T K 100000 n
+ME 主任 100000 n
+MP 風險 100000 n
+Magna 100000 n
+Moore 100000 n
+Mstar 100000 n
+NPI系統 100000 n
+Nanya 100000 n
+OK XX 100000 n
+OP EE 100000 n
+PE EE 100000 n
+PE工程師 100000 n
+PIP管制 100000 n
+PIP規範 100000 n
+Q end 100000 n
+Qorvo 100000 n
+RA 評估 100000 n
+Roger 100000 n
+Ryzen 100000 n
+SCADA 100000 n
+SESUB 100000 n
+SK海力士 100000 n
+SMD封裝 100000 n
+Sales 100000 n
+Semco 100000 n
+SiP模組 100000 n
+TEST廠 100000 n
+TFBGA 100000 n
+Telit 100000 n
+To be 100000 n
+Tonga 100000 n
+UFLEX 100000 n
+Ultra 100000 n
+VM 站點 100000 n
+VP JJ 100000 n
+VP KC 100000 n
+VP SF 100000 n
+VP SI 100000 n
+WI Fi 100000 n
+WLCSP 100000 n
+X-RAY 100000 n
+Yeats 100000 n
+Yield 100000 n
+crack 100000 n
+e化的專案 100000 n
+iKala 100000 n
+k day 100000 n
+saw 樓 100000 n
+x 處理器 100000 n
+三五族元件 100000 n
+三星西安廠 100000 n
+上海材料廠 100000 n
+中國商務部 100000 n
+中壢a 廠 100000 n
+中央處理器 100000 n
+中水回收廠 100000 n
+中美科技戰 100000 n
+中美貿易戰 100000 n
+人力大失血 100000 n
+供應鏈重組 100000 n
+保密切結書 100000 n
+出貨量下滑 100000 n
+功率放大器 100000 n
+加滿 小時 100000 n
+勞動力短缺 100000 n
+半導體龍頭 100000 n
+南科管理局 100000 n
+反向客製化 100000 n
+反壟斷調查 100000 n
+台灣勞動黨 100000 n
+吋先進製程 100000 n
+員工投入度 100000 n
+太陽能產業 100000 n
+工安月活動 100000 n
+工業用口罩 100000 n
+廠務 主管 100000 n
+廠房自動化 100000 n
+廢棄物處理 100000 n
+德國疾管局 100000 n
+感測器技術 100000 n
+應用處理器 100000 n
+拉斯維加斯 100000 n
+採購 財務 100000 n
+控管出貨量 100000 n
+新冠狀病毒 100000 n
+日月 神教 100000 n
+日月光投控 100000 n
+日月光控股 100000 n
+日月光集團 100000 n
+智財權保護 100000 n
+服務供應商 100000 n
+東芝記憶體 100000 n
+消費性產品 100000 n
+營業秘密法 100000 n
+產品工程師 100000 n
+產業分析師 100000 n
+節能 節電 100000 n
+篷萊仙島廠 100000 n
+系統單晶片 100000 n
+經副理主管 100000 n
+繪圖處理器 100000 n
+美中貿易戰 100000 n
+美國商務部 100000 n
+聚焦物聯網 100000 n
+蔡英文總統 100000 n
+製程工程師 100000 n
+記警告乙支 100000 n
+設備工程師 100000 n
+財報法說會 100000 n
+進機的計畫 100000 n
+錯 漏 混 100000 n
+鍍銅保養廠 100000 n
+閒晃不做事 100000 n
+防疫大作戰 100000 n
+集團 採購 100000 n
+雲端EDA 100000 n
+電信營運商 100000 n
+靠北日月光 100000 n
+高雄材料場 100000 n
+高雄材料廠 100000 n
+高雄水果廠 100000 n
+鵝廠的歪膀 100000 n
+麒麟 晶片 100000 n
+Abbott 100000 n
+Alex副總 100000 n
+Amazon 100000 n
+Amy 經理 100000 n
+Ascend 100000 n
+Assets 100000 n
+Athlon 100000 n
+BCP 演練 100000 n
+Bergey 100000 n
+Boeing 100000 n
+CIM委員會 100000 n
+CRD HR 100000 n
+CT 一般型 100000 n
+CT 智慧型 100000 n
+Cedros 100000 n
+Cheney 100000 n
+DDoS攻擊 100000 n
+DeePhi 100000 n
+Dialog 100000 n
+Evonik 100000 n
+FC AiP 100000 n
+FC F F 100000 n
+FCST下修 100000 n
+FD SOI 100000 n
+FO COS 100000 n
+Fan ou 100000 n
+Fanout 100000 n
+HR AXI 100000 n
+HR 安全部 100000 n
+Hauwei 100000 n
+Hiband 100000 n
+Huawei 100000 n
+Hybrid 100000 n
+IC 封測業 100000 n
+IC 產品產 100000 n
+IC 設計業 100000 n
+IC封測業者 100000 n
+IDL DL 100000 n
+Jacala 100000 n
+K 第一會議 100000 n
+K 貳壹三樓 100000 n
+Kinsus 100000 n
+Kioxia 100000 n
+K餓似 漆嘍 100000 n
+LEADER 100000 n
+M star 100000 n
+MARTIN 100000 n
+ME基層幹部 100000 n
+MICRON 100000 n
+Margin 100000 n
+Mate X 100000 n
+Mobile 100000 n
+Movein 100000 n
+Murata 100000 n
+Muster 100000 n
+NANMAT 100000 n
+Nippon 100000 n
+Nvidia 100000 n
+Orange 100000 n
+QTI FX 100000 n
+Qiagen 100000 n
+REWORK 100000 n
+RFQ 報價 100000 n
+Saipan 100000 n
+Socket 100000 n
+Switch 100000 n
+TFCC人員 100000 n
+TPO 預算 100000 n
+Tanaka 100000 n
+Tempus 100000 n
+Tiktok 100000 n
+Toyota 100000 n
+VMware 100000 n
+VP Max 100000 n
+VPO IE 100000 n
+Victor 100000 n
+Voltus 100000 n
+WB MFG 100000 n
+X LA S 100000 n
+Xilinx 100000 n
+fo cus 100000 n
+i MX S 100000 n
+iPhone 100000 n
+issues 100000 n
+mmWave 100000 n
+u blox 100000 n
+上游晶圓代工 100000 n
+世界衛生組織 100000 n
+中三街停車場 100000 n
+中壢夜班二廠 100000 n
+中壢夜班惡場 100000 n
+先進封裝元件 100000 n
+光禾感知科技 100000 n
+公司內部考核 100000 n
+出口管制措施 100000 n
+出貨運費問題 100000 n
+十大產業創新 100000 n
+台積電法說會 100000 n
+員工分紅股票 100000 n
+大陸矽品電子 100000 n
+委外封測代工 100000 n
+定額分離課稅 100000 n
+居家辦公防疫 100000 n
+工傷事件分析 100000 n
+市場研究機構 100000 n
+後段晶圓測試 100000 n
+怡心國際科技 100000 n
+恩智浦半導體 100000 n
+折舊成本降低 100000 n
+採購 VPO 100000 n
+數位醫療保健 100000 n
+新光寶停車場 100000 n
+新型冠狀病毒 100000 n
+新興市場波動 100000 n
+日月光半導體 100000 n
+晶圓出貨指標 100000 n
+智慧行動辦公 100000 n
+有市場觀察者 100000 n
+未達出貨目標 100000 n
+楠梓 加工區 100000 n
+欸參N班歪棒 100000 n
+法商思寬通訊 100000 n
+無線基礎設施 100000 n
+營業秘密保護 100000 n
+營業秘密犯罪 100000 n
+玫琳凱 艾施 100000 n
+產能擴充計畫 100000 n
+異味陳情案件 100000 n
+砍分紅加底薪 100000 n
+積層陶瓷電容 100000 n
+穿戴裝置產品 100000 n
+維吾爾穆斯林 100000 n
+網路通訊技術 100000 n
+美商矽睿科技 100000 n
+美國總統大選 100000 n
+美國總統川普 100000 n
+美國電信業者 100000 n
+聚合 鏈反應 100000 n
+自主健康管理 100000 n
+自動化委員會 100000 n
+自然語言處理 100000 n
+華為出口限制 100000 n
+菲律宾 OP 100000 n
+行動通訊產業 100000 n
+財務智慧園區 100000 n
+財務風險偵測 100000 n
+資深高層人士 100000 n
+道瓊永續指數 100000 n
+遠距上班配套 100000 n
+邊緣人工智慧 100000 n
+量產FCST 100000 n
+長飛光纖光纜 100000 n
+防疫應變小組 100000 n
+A A VPO 100000 n
+A N班 WB 100000 n
+AI晶片獨角獸 100000 n
+ASEE KH 100000 n
+ASEE SH 100000 n
+Android 100000 n
+Apple手機 100000 n
+BU FCST 100000 n
+Bitmain 100000 n
+Bumping 100000 n
+CEI Dir 100000 n
+CMOS感測器 100000 n
+CPE CRD 100000 n
+Cepheid 100000 n
+ChipMOS 100000 n
+Chitwan 100000 n
+Citroen 100000 n
+Co EMIB 100000 n
+Cost up 100000 n
+Cu Wire 100000 n
+Cypress 100000 n
+Dailmer 100000 n
+Dir Ken 100000 n
+Dolphin 100000 n
+Edge AI 100000 n
+FC Bump 100000 n
+FCST 下修 100000 n
+FOCoS B 100000 n
+FS Tang 100000 n
+Face ID 100000 n
+Fan Out 100000 n
+Foveros 100000 n
+Foxconn 100000 n
+Full TK 100000 n
+G AP的產品 100000 n
+G ThinQ 100000 n
+G 基頻晶片X 100000 n
+Gartner 100000 n
+Hilison 100000 n
+Huracan 100000 n
+Hyundai 100000 n
+IE team 100000 n
+IceFish 100000 n
+InFoPoP 100000 n
+January 100000 n
+K Lobby 100000 n
+K 國際會議廳 100000 n
+Kilauea 100000 n
+Kunpeng 100000 n
+LF Cu P 100000 n
+MP plan 100000 n
+MacBook 100000 n
+Marvell 100000 n
+Mate 系列 100000 n
+Merline 100000 n
+Mesa IF 100000 n
+Michael 100000 n
+Mike 副總 100000 n
+Moveout 100000 n
+Nick Ni 100000 n
+Novatek 100000 n
+O RAN聯盟 100000 n
+OEE UPH 100000 n
+ON Semi 100000 n
+OSH FAC 100000 n
+Olympus 100000 n
+Pegasus 100000 n
+Peugeot 100000 n
+Qualcom 100000 n
+Quantus 100000 n
+Quectel 100000 n
+REALTEK 100000 n
+RICHTEK 100000 n
+Ramaxel 100000 n
+Renesas 100000 n
+Reuters 100000 n
+Samsung 100000 n
+SanDisk 100000 n
+Sensors 100000 n
+Sequans 100000 n
+Siemens 100000 n
+Sony PS 100000 n
+Spectre 100000 n
+StarFab 100000 n
+T Phone 100000 n
+TDDI IC 100000 n
+TWS藍牙耳機 100000 n
+Test PS 100000 n
+Test WB 100000 n
+Test 折舊 100000 n
+Toshiba 100000 n
+Turnkey 100000 n
+Ukonaho 100000 n
+VP ALEX 100000 n
+VP BILL 100000 n
+VP Fuyu 100000 n
+VP HIRO 100000 n
+VP MIKE 100000 n
+Verizon 100000 n
+Vermeer 100000 n
+Warlock 100000 n
+William 100000 n
+Xcelium 100000 n
+anthrax 100000 n
+fabless 100000 n
+margin差 100000 n
+ramp up 100000 n
+sub GHz 100000 n
+中三街 停車場 100000 n
+供應商稽核機制 100000 n
+供應商評核機制 100000 n
+加工區異味陳情 100000 n
+半導體檢測設備 100000 n
+台灣證券交易所 100000 n
+拓墣產業研究院 100000 n
+改善 A 人力 100000 n
+數位訊號處理器 100000 n
+智慧預防型維護 100000 n
+消費性電子產品 100000 n
+產量與產能下滑 100000 n
+矽品精密合併案 100000 n
+砍分紅加 底薪 100000 n
+經 副理 主管 100000 n
+英國衛生福利部 100000 n
+落實PIP查核 100000 n
+蜂巢式行動通訊 100000 n
+跳過主任揭以上 100000 n
+量產 FCST 100000 n
+防護活性碳口罩 100000 n
+A 新廠 自動化 100000 n
+BGA PBGA 100000 n
+BROADCOM 100000 n
+Benteler 100000 n
+Bot Chef 100000 n
+Bumping廠 100000 n
+CHIPBOND 100000 n
+Chiplets 100000 n
+Cortex A 100000 n
+Cortex M 100000 n
+D report 100000 n
+DnaNudge 100000 n
+ESD SPEC 100000 n
+ESD fail 100000 n
+Easy B模組 100000 n
+Embedded 100000 n
+Ericsson 100000 n
+FOCoS CF 100000 n
+FOCoS CL 100000 n
+Facebook 100000 n
+FlipChip 100000 n
+G iPhone 100000 n
+G module 100000 n
+Gm jerry 100000 n
+Hoppecke 100000 n
+IC 製造業產值 100000 n
+Infineon 100000 n
+Infinity 100000 n
+Intrater 100000 n
+Jordan副總 100000 n
+K Tester 100000 n
+Kip Cole 100000 n
+Liberate 100000 n
+M sereis 100000 n
+M series 100000 n
+Mavrakis 100000 n
+MediaTek 100000 n
+PRICE辦公室 100000 n
+Pegatron 100000 n
+Power BI 100000 n
+Qualcomm 100000 n
+SARS CoV 100000 n
+SIMMTECH 100000 n
+SK Hynix 100000 n
+SMT 擴充計畫 100000 n
+Skyworks 100000 n
+SoftBank 100000 n
+T Mobile 100000 n
+TEST VPO 100000 n
+TFDA 醫療級 100000 n
+Tampines 100000 n
+Test MFG 100000 n
+Tonga 產能 100000 n
+Touch ID 100000 n
+Treasury 100000 n
+VP Jimmy 100000 n
+VP Steve 100000 n
+Vision S 100000 n
+Vodafone 100000 n
+Wafer in 100000 n
+Wirebond 100000 n
+ZF Group 100000 n
+die bank 100000 n
+iPad Pro 100000 n
+margin較差 100000 n
+pre qual 100000 n
+turn key 100000 n
+世界行動通訊大會 100000 n
+供應商 稽核機制 100000 n
+先進封裝技術論壇 100000 n
+全世界第一封測廠 100000 n
+出口管制實體清單 100000 n
+國家美式足球聯盟 100000 n
+居家辦公演練計畫 100000 n
+工研院產科國際所 100000 n
+拉高Margin 100000 n
+日月光 控股公司 100000 n
+智能碼頭安全管理 100000 n
+武漢 Wuhan 100000 n
+第六代Wi Fi 100000 n
+羅伯特 萊特希澤 100000 n
+自動包裝機應精進 100000 n
+舞弊郵件查檢機制 100000 n
+蜂巢式技術生態系 100000 n
+記憶體關鍵零組件 100000 n
+過獨立第三方認證 100000 n
+Qualcomm 100000 n
+A Bioni c 100000 n
+A Manager 100000 n
+AMD Ryzen 100000 n
+AnandTech 100000 n
+Assy Test 100000 n
+Benchmark 100000 n
+Broadcomm 100000 n
+Bumping A 100000 n
+Cambricon 100000 n
+DNA固相萃取方法 100000 n
+DevOps 軟體 100000 n
+Die crack 100000 n
+Down Time 100000 n
+Dr Robert 100000 n
+Exynos處理器 100000 n
+FCCSP SMT 100000 n
+FCST Plan 100000 n
+FCST drop 100000 n
+FCST 產能需求 100000 n
+FCST及量產時程 100000 n
+G 無線射頻晶片組 100000 n
+G 量產 FCST 100000 n
+HISILICON 100000 n
+Jeff Bier 100000 n
+Jordan 副總 100000 n
+Line Tour 100000 n
+MP status 100000 n
+Microchip 100000 n
+Microsoft 100000 n
+Mircochip 100000 n
+Net Sales 100000 n
+Nighthawk 100000 n
+Palladium 100000 n
+Panasonic 100000 n
+Shielding 100000 n
+Support單位 100000 n
+Synaptics 100000 n
+VP JORDAN 100000 n
+VP STEVEN 100000 n
+VP VICTOR 100000 n
+Watch Dog 100000 n
+Xinwangda 100000 n
+cost down 100000 n
+flip chip 100000 n
+gold wire 100000 n
+iPhone SE 100000 n
+macrocell 100000 n
+non Bravo 100000 n
+pre audit 100000 n
+qual pass 100000 n
+requotion 100000 n
+should be 100000 n
+substrate 100000 n
+trade war 100000 n
+wire bond 100000 n
+三星 Exynos 100000 n
+三星展示機器人廚師 100000 n
+不得跨園區騎乘機車 100000 n
+全球IC單位出貨量 100000 n
+副總 Victor 100000 n
+半導體材料砷 化鎵 100000 n
+國際半導體產業協會 100000 n
+提升OEE UPH 100000 n
+新產品導入 NPI 100000 n
+明年 Q FCST 100000 n
+智慧型公務手機方案 100000 n
+無法E化的紙本作業 100000 n
+美國聯邦通訊委員會 100000 n
+美國食品藥物管理局 100000 n
+跳過 主任 階以上 100000 n
+AMD Athlon 100000 n
+ATV device 100000 n
+Automotive 100000 n
+Bio Sensor 100000 n
+Biomerieux 100000 n
+BlackBerry 100000 n
+Bumping BE 100000 n
+Bumping FC 100000 n
+CAPEX Plan 100000 n
+Chromebook 100000 n
+DIR MARTIN 100000 n
+Eliane Chu 100000 n
+FC Bumping 100000 n
+FCCSP FCST 100000 n
+FX Loading 100000 n
+Fli p chip 100000 n
+Focus area 100000 n
+GM Meeting 100000 n
+H business 100000 n
+Incubating 100000 n
+K w to K w 100000 n
+Koray Kose 100000 n
+Labor cost 100000 n
+Loading 不足 100000 n
+Michael 副總 100000 n
+Module out 100000 n
+NAND Flash 100000 n
+NEPZ 三號出入口 100000 n
+PnL target 100000 n
+Qual不要fail 100000 n
+Riot Games 100000 n
+Roger Kang 100000 n
+Snapdragon 100000 n
+Test CAPEX 100000 n
+Tester SLT 100000 n
+VP MICHAEL 100000 n
+Volkswagen 100000 n
+ZeroDefect 100000 n
+biometrics 100000 n
+bond crack 100000 n
+daily plan 100000 n
+iPhone Pro 100000 n
+yield loss 100000 n
+供應商資安承諾同意書 100000 n
+全球移動通訊系統協會 100000 n
+前段製程晶圓檢測設備 100000 n
+力晶科技股份有限公司 100000 n
+北美半導體設備製造商 100000 n
+嚴重急性呼吸道症候群 100000 n
+數位權限管理 DRM 100000 n
+美國智庫外交關係協會 100000 n
+資料外洩防護 DLP 100000 n
+A OP EE 加班率 100000 n
+Apple Watch 100000 n
+Bumping VPO 100000 n
+COST SAVING 100000 n
+CP business 100000 n
+Capex Ratio 100000 n
+Continental 100000 n
+Copper Wire 100000 n
+D 堆疊的晶片架構技術 100000 n
+Dep 與人力成本改善 100000 n
+Easy B IGBT 100000 n
+FCCSP 的FCST 100000 n
+Galaxy Fold 100000 n
+GeForce NOW 100000 n
+IC Insights 100000 n
+Joe Barrett 100000 n
+MOR Qaulity 100000 n
+MP schedule 100000 n
+Markus Levy 100000 n
+Quarter end 100000 n
+TOF D 空間感測器 100000 n
+WB capacity 100000 n
+action plan 100000 n
+bumping WIP 100000 n
+commite 機台數 100000 n
+device list 100000 n
+forecast會下修 100000 n
+key account 100000 n
+output plan 100000 n
+overbooking 100000 n
+pre meeting 100000 n
+price 採購 財務 100000 n
+revenue A T 100000 n
+revenue gap 100000 n
+stand alone 100000 n
+zero defect 100000 n
+中國人行貨幣政策委員會 100000 n
+全球行動通訊供應商協會 100000 n
+確保 G安全的國家策略 100000 n
+終端 endpoint 100000 n
+美國商務部工業與安全局 100000 n
+高比表面積之多孔洞碳材 100000 n
+ABI Research 100000 n
+Arm Cortex A 100000 n
+Assy Test IE 100000 n
+Big Navi GPU 100000 n
+Borje Ekholm 100000 n
+Chris Bergey 100000 n
+Cost Control 100000 n
+Genesis Peak 100000 n
+GYnesis Peak 100000 n
+Google  100000 n
+Google 100000 nPixel 100000 n
+IE Committee 100000 n
+John Johnson 100000 n
+Judith Cheng 100000 n
+MCUXpresso軟體 100000 n
+Rosen Bridge 100000 n
+SiP Platform 100000 n
+Snapdragon G 100000 n
+TEST Hub OEE 100000 n
+TK Biz model 100000 n
+WIRE BONDING 100000 n
+Working Plan 100000 n
+daily reprot 100000 n
+loading plan 100000 n
+market share 100000 n
+rolling FCST 100000 n
+上海移遠通信技術有限公司 100000 n
+中國國務院關稅稅則委員會 100000 n
+定點照護分子診斷測試裝置 100000 n
+居家隔離個人定位追蹤系統 100000 n
+病原體 pathogen 100000 n
+矽品精密工業股份有限公司 100000 n
+科技部南部科學園區管理局 100000 n
+第五代蜂巢式行動通訊技術 100000 n
+美國貿易代表署 USTR 100000 n
+AP BB RF WiFi 100000 n
+Bravo Mesa 殺價 100000 n
+Business plan 100000 n
+CEI directors 100000 n
+CIM Committee 100000 n
+CRISPR Cas 測試 100000 n
+Capacity Plan 100000 n
+Control Table 100000 n
+Copper Pillar 100000 n
+David McQueen 100000 n
+Dir Lung Tsai 100000 n
+Enrique Lores 100000 n
+Hisi IFRS WIP 100000 n
+Idle Material 100000 n
+Labor Cost 改善 100000 n
+MCU 包括神經網路加速器 100000 n
+Margin is key 100000 n
+NoteBookCheck 100000 n
+Quality issue 100000 n
+SALES VP BILL 100000 n
+Sales FCST 系統 100000 n
+Scott Roger s 100000 n
+TEST WIP 水位提升 100000 n
+actual output 100000 n
+hold shipment 100000 n
+last forecast 100000 n
+multi gigabit 100000 n
+price erosion 100000 n
+recovery plan 100000 n
+wafer loading 100000 n
+Andrew Norwood 100000 n
+Andrew Zignani 100000 n
+Assy Test FCST 100000 n
+CWMS Watch Dog 100000 n
+DongFeng Motor 100000 n
+Edge Computing 100000 n
+Forrest Norrod 100000 n
+General Motors 100000 n
+GeorgeKC Huang 100000 n
+Huaqiang Group 100000 n
+LG Electronics 100000 n
+Mark Montierth 100000 n
+PnL simulation 100000 n
+SEMI 國際半導體產業協會 100000 n
+Security Audit 100000 n
+Tiger Lake 處理器 100000 n
+current status 100000 n
+expansion plan 100000 n
+module devices 100000 n
+世界先進積體電路股份有限公司 100000 n
+中國半導體產業協會 CSIA 100000 n
+分離式元件 Discrete 100000 n
+AirPods 真無線藍牙耳機 100000 n
+Concurrent Dual 100000 n
+Dir Marwan Wang 100000 n
+Fanout Platform 100000 n
+Gideon Intrater 100000 n
+GlobalFoundries 100000 n
+JCET allocation 100000 n
+Semico Research 100000 n
+Sierra Wireless 100000 n
+Task Force Team 100000 n
+Western Digital 100000 n
+critical device 100000 n
+formal forecast 100000 n
+low yield issue 100000 n
+mass production 100000 n
+module business 100000 n
+ramping devices 100000 n
+revenue turnkey 100000 n
+巴龍Balong G 基頻晶片 100000 n
+核心裂解 core lysis 100000 n
+Dimitri Mavrakis 100000 n
+Double Side Mold 100000 n
+Horizon Robotics 100000 n
+Improvement Plan 100000 n
+Mercury Research 100000 n
+Michael Porowski 100000 n
+Spatial Topology 100000 n
+Supplier chain短缺 100000 n
+T K capex review 100000 n
+Turnkey Business 100000 n
+WB Business 市場分析 100000 n
+Wolfgang Furtner 100000 n
+first pass yield 100000 n
+flip chip bonder 100000 n
+middleware stack 100000 n
+substrate vendor 100000 n
+小型低功耗無線連接能量收集感測器 100000 n
+市場研究機構TrendForce 100000 n
+A T capaex number 100000 n
+Applied Materials 100000 n
+Central Plant FAC 100000 n
+Eng Qual progress 100000 n
+Fingerprint Cards 100000 n
+G PLUS積加 A 智慧型資安機 100000 n
+H 的 Business Plan 100000 n
+Supply Chain Risk 100000 n
+System in Package 100000 n
+edge of a gateway 100000 n
+margin simulation 100000 n
+material shortage 100000 n
+Analog FastSPICE平台 100000 n
+Business plan goal 100000 n
+DIGITIMES Research 100000 n
+Kenneth Cuccinelli 100000 n
+Microsoft Xbox One 100000 n
+Objective Analysis 100000 n
+Strategy Analytics 100000 n
+Suiyuan Technology 100000 n
+correlation sample 100000 n
+loading projection 100000 n
+即時反轉錄聚合 鏈反應 RT PCR 100000 n
+營業秘密 Trade Secrets 100000 n
+高通 G 處理器Snapdragon 100000 n
+Adesto Technologies 100000 n
+Jessica Rosenworcel 100000 n
+Samsung Electronics 100000 n
+Supplier chain ship 100000 n
+quality performance 100000 n
+蜂巢式 cellular 行動通訊網路 100000 n
+Microsoft Azure RTOS 100000 n
+Silicon Valley X ray 100000 n
+Snapdragon Ride 自動疊層 100000 n
+數位科技安全 Cybersecurity 100000 n
+Enterprise X Come MDM 100000 n
+MOBILE WORLD CONGRESS 100000 n
+Snapdragon Ride 安全加速器 100000 n
+Ville Petteri Ukonaho 100000 n
+last forecast version 100000 n
+space allocation plan 100000 n
+Small Out Line Package 100000 n
+單晶片實驗室 lab on chip 的系統 100000 n
+定點照護 point of care PoC 100000 n
+CCTV task force team 團隊 100000 n
+forecast load agreement 100000 n
+substrate cost up cases 100000 n
+Bravo G Test Rosen Bridge 100000 n
+World Health Organization 100000 n
+Real Time Management System 100000 n
+Yangtze Memory Technologies 100000 n
+Yuntian Lifei Intellivision 100000 n
+數位轉型 Digital Transformation 100000 n
+Snapdragon Ride Safety 系統單晶片 100000 n
+加拿大滑鐵盧國際治理創新中心 CIGI 暨美國夏威夷東西中心 100000 n
+US Food and Drug Administration 100000 n
+Snapdragon Ride Autonomous Stack 100000 n
+血流感染 bloodstream infections 測試裝置 100000 n
+Groupe Speciale Mobile Association 100000 n
+Snapdragon Ride Safety Accelerator 100000 n
+Universal Integrated Circuit Cards 100000 n
+Department of Health and Social Care 100000 n
+調整定制運算架構 adaptable domain specific architecture 100000 n
+High resolution Automated X ray Inspection HR AXI 100000 n
