@@ -42,12 +42,7 @@ def get_first_data(secret_file, rowsplitor, colsplitor, max_buffer_file  = 3):
     if os.path.isfile(secret_file):
         file_data = open(secret_file, 'r').read()
         data = file_data.split(rowsplitor)[0].split(colsplitor)
-        is_reach_max =  file_data.count(rowsplitor) + 1 == max_buffer_file
-        if is_reach_max:
-            with open(secret_file, 'w', encoding='utf-8') as f:
-                f.write(f"{rowsplitor}".join(file_data.split(rowsplitor)[1:]))
-                f.close()
-                return data[0], data[1], is_reach_max
+        is_reach_max =  file_data.count(rowsplitor) + 1 >= max_buffer_file
         return data[0], data[1], is_reach_max
     else:
         return '', '', ''

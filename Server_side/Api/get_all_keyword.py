@@ -5,11 +5,14 @@ from datetime import datetime
 def main(dist, request_data):
     keywords = {}
     all_dir = list()
-    all_dist_dir = os.listdir(dist)
+    all_dist_dir = os.listdir(dist) 
     
     date_pattern = '%Y-%m-%d'
     datetime_pattern = '%Y/%m/%d %H:%M:%S'
     reg_datetime_pattern = '^\d{4}/\d{2}/\d{2} \d{2}:\d{2}:\d{2}$'
+    
+    userQueryText = request_data['userQueryText'] # 欲查詢的使用者集合
+    userQueryType = request_data['userQueryType'] # 欲查詢使用者的類別
     
 
     # 如果時間範圍設定不完整，則預設最近n天內的資料
@@ -23,12 +26,22 @@ def main(dist, request_data):
             with open(f'{dist}/{directory}/{directory}_log.json', 'r', encoding='utf-8') as f:
                 pic_data = json.load(f)
                 for pic in pic_data:
-                    for key, cnt in pic['keywords']:
-                        
-                        if keywords.get(key) != None:
-                            keywords[key] += int(cnt)
-                        else:
-                            keywords[key] = int(cnt)
+
+                    # 判斷目標用戶
+                    is_target_id = {
+                        '電腦名稱': True if userQueryText == '' else userQueryText in pic['computer_id'],
+                        '員工編號': True if userQueryText == '' else userQueryText in util.get_id(pic['computer_id']),
+                        'ASEID': True if userQueryText == '' else userQueryText in util.get_aseid(pic['computer_id']),
+                        '員工姓名': True if userQueryText == '' else userQueryText in util.get_computer_user_name(pic['computer_id']),
+                        '部門代碼': True if userQueryText == '' else userQueryText in util.get_department_id(pic['computer_id'])
+                    }[userQueryType]
+                    
+                    if is_target_id:
+                        for key, cnt in pic['keywords']:
+                            if keywords.get(key) != None:
+                                keywords[key] += int(cnt)
+                            else:
+                                keywords[key] = int(cnt)
     else:
         # 取時間範圍內的資料
         start_datetime = datetime.strptime(request_data['startDatetime'], datetime_pattern) 
@@ -49,7 +62,16 @@ def main(dist, request_data):
                     cur_pic_datetime = datetime.strptime(f'{pic["snapshot_date"]} {pic["snapshot_time"]}', datetime_pattern)
                     is_target_datetime = cur_pic_datetime >= start_datetime and cur_pic_datetime <= stop_datetime # 是否落在目標時間
                     
-                    if is_target_datetime:
+                    # 判斷目標用戶
+                    is_target_id = {
+                        '電腦名稱': True if userQueryText == '' else userQueryText in pic['computer_id'],
+                        '員工編號': True if userQueryText == '' else userQueryText in util.get_id(pic['computer_id']),
+                        'ASEID': True if userQueryText == '' else userQueryText in util.get_aseid(pic['computer_id']),
+                        '員工姓名': True if userQueryText == '' else userQueryText in util.get_computer_user_name(pic['computer_id']),
+                        '部門代碼': True if userQueryText == '' else userQueryText in util.get_department_id(pic['computer_id'])
+                    }[userQueryType]
+                    
+                    if is_target_id and is_target_datetime:
                         for key, cnt in pic['keywords']:
                             if keywords.get(key) != None:
                                 keywords[key] += int(cnt)
